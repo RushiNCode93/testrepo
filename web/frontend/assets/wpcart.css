@@ -1,0 +1,62 @@
+.wp_share_cart {
+    padding: 5px 20px;
+}
+
+.wp_share_cart fieldset {
+    margin: 20px 0;
+}
+
+.wp_share_cart h1 {
+    font-size: 16px;
+    font-weight: 600;
+    display: block;
+    padding-top: 10px;
+}
+.wp_share_cart fieldset {
+    margin: 20px 0;
+    border: solid 1px #ccc;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.wp_share_cart label {
+    display: inline-block;
+    width: 100%;
+    padding: 10px 0;
+}
+.wp_share_cart label p {
+    font-size: 13px;
+    padding-bottom: 5px;
+    display: inline-block;
+    width: 35%;
+}
+.wp_share_cart label select {
+    border: solid 1px #ccc;
+    width: 25%;
+    height: 32px;
+    background-color: #fff;
+    padding: 0 5px;
+}
+.wp_share_cart label input {
+    width: 25%;
+    border: solid 1px #ccc;
+    height: 32px;
+    padding: 0 8px;
+}
+.wp_share_cart textarea {  
+  width: 25%;
+  border: solid 1px #ccc;
+  height: 45px;
+  padding: 0px 8px;  
+}
+.wp_share_cart button {
+    display: inline-block;
+    background: green;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    padding: 10px 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    cursor: pointer;
+}

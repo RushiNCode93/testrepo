@@ -1,6 +1,7 @@
 [build]
   command = "composer update"
   environment = { PHP_VERSION = "8.1" }
+  base = "whatsapp-share-cart"
   
 [[redirects]]
   from = "/*"

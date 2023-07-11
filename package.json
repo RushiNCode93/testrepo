@@ -4,7 +4,7 @@
   "license": "UNLICENSED",
   "scripts": {
     "shopify": "shopify",
-    "build": "npm run composer-update && shopify app dev",
+    "build": "npm run composer-update && shopify app build",
     "composer-update": "composer update",
     "dev": "shopify app dev",
     "push": "shopify app push",

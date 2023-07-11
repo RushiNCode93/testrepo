@@ -4,8 +4,7 @@
   "license": "UNLICENSED",
   "scripts": {
     "shopify": "shopify",
-    "build": "npm run composer-update && shopify app build",
-    "composer-update": "composer update",
+    "build": "shopify app build",
     "dev": "shopify app dev",
     "push": "shopify app push",
     "generate": "shopify app generate",
@@ -19,7 +18,6 @@
     "axios": "^1.4.0",
     "graphql": "^14.7.0",
     "graphql-tag": "^2.12.6",
-    "node-fetch": "^2.6.12",
     "react-apollo": "^3.1.5"
   },
   "author": "rushi"

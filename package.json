@@ -5,6 +5,7 @@
   "scripts": {
     "shopify": "shopify",
     "build": "shopify app build",
+    "composer-update": "composer update",
     "dev": "shopify app dev",
     "push": "shopify app push",
     "generate": "shopify app generate",
